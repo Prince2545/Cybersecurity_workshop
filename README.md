@@ -104,7 +104,7 @@ Repository | Description
 ## Need More ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
+ - Twitter : [x acc](https://x.com/princey12943531)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
 ## Contributions
